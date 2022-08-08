@@ -8,12 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+<ul><li>Shop Assist Wireframe: Created in Figma-https://drive.google.com/file/d/1MLBrxWg426YOBtoMrhrSPD8FpofWR3yT/view?usp=sharing 8/8/2022</li></ul>
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
-
+Team Trello: https://trello.com/b/2xjX74Ua/grocery-cart
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Project: https://github.com/Jul-2022-LC-LiftOff/Grocery-Cart
